@@ -55,5 +55,5 @@ Kod içerisinde yer alan temel yapılar ve amaçları şöyledir:
 
 ---
 
-**Geliştirici:** [ADINIZ SOYADINIZ]  
+**Geliştirici:** HÜDA NUR SEL
 **Konu:** Linux Syslog Bilgilerinin Bağlı Liste ile Gösterilmesi
